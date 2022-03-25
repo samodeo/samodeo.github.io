@@ -1,7 +1,7 @@
 ---
 layout: page
 title: About me
-subtitle: Welcome to my homepage!
+# subtitle: Welcome to my homepage!
 ---
 
 I am an astrophysicist working at the [Observatoire astronomique de Strasbourg](https://astro.unistra.fr/en/).
