@@ -15,7 +15,7 @@ author: Stefania Amodeo
 
 navbar-links:
   About Me: "aboutme"
-  CV: <iframe src="https://samodeo.github.io/assets/CV_SAMODEO.pdf" width="100%" height=100%"></iframe>
+  CV: <a href="/resume">resume</a>
   Publications: "https://ui.adsabs.harvard.edu/public-libraries/XkS0ScQ1SrqIEingH_k72Q"
   #Resources:
   #  - Beautiful Jekyll: "https://beautifuljekyll.com"
